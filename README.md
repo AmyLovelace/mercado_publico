@@ -26,7 +26,6 @@ Este proyecto es una aplicación en **React** que permite buscar, visualizar y e
 - 🌙 Interfaz adaptada para una experiencia clara incluso con fondo blanco.
 
 ## 🖼 Capturas de Pantalla 
-## 🖼 Captura de pantalla
 
 ![Vista principal de la app](ss1.png)
 ![Vista principal de la app](ss2.png)

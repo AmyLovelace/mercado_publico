@@ -25,6 +25,9 @@ Este proyecto es una aplicación en **React** que permite buscar, visualizar y e
 - 📚 Sección educativa integrada que explica cómo funciona el Mercado Público y su sistema de licitaciones.
 - 🌙 Interfaz adaptada para una experiencia clara incluso con fondo blanco.
 
+## 🖼 Despliegue
+- [Netlify]([https://reactjs.org/](https://mercado-licitaciones-publica.netlify.app/))
+
 ## 🖼 Capturas de Pantalla 
 
 ![Vista principal de la app](ss1.png)

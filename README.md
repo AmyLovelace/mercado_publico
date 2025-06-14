@@ -26,7 +26,7 @@ Este proyecto es una aplicación en **React** que permite buscar, visualizar y e
 - 🌙 Interfaz adaptada para una experiencia clara incluso con fondo blanco.
 
 ## 🖼 Despliegue
-- [Netlify](https://reactjs.org/](https://mercado-licitaciones-publica.netlify.app)
+- [Netlify](https://mercado-licitaciones-publica.netlify.app)
 
 ## 🖼 Capturas de Pantalla 
 

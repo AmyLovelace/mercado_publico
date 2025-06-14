@@ -9,68 +9,43 @@
 - Amanecer Cabrera  
 - Emerson Ramírez  
 
+# Buscador de Licitaciones - Mercado Público
 
-## 🧠 Planteamiento de la problemática
+Este proyecto es una aplicación en **React** que permite buscar, visualizar y entender licitaciones públicas publicadas en el **Mercado Público de Chile**, utilizando su API oficial. Está diseñado con **Material UI** para una interfaz elegante y responsive, y animado con **Framer Motion** para una experiencia fluida.
 
-Sitio web para impulsar la presencia digital de las emprendedoras de Zapallar
+## ✨ Características
 
----
+- 🔍 Búsqueda de licitaciones por:
+  - Fecha de cierre
+  - Estado del proceso (publicada, cerrada, adjudicada, revocada)
+  - RUT del proveedor
+- 📅 Calendario interactivo que resalta días con licitaciones.
+- 📄 Detalles expandibles con información enriquecida de cada licitación.
+- 🧾 Vista adicional del proveedor cuando se busca por RUT.
+- 📚 Sección educativa integrada que explica cómo funciona el Mercado Público y su sistema de licitaciones.
+- 🌙 Interfaz adaptada para una experiencia clara incluso con fondo blanco.
 
-## 🧩Desarrollo de eventos de interacción
+## 🖼 Capturas de Pantalla 
+## 🖼 Captura de pantalla
 
-- Scroll automático a secciones con `useRef`.
-- Menú hamburguesa funcional en móviles mediante `Drawer` de MUI.
-- Control del menú desde el componente `Layout`.
-
-
-## 📝  Formulario de contacto con validaciones  
-
-- Validación de campos vacíos (nombre y email).
-- Validación de formato correcto de email.
-- Modal de confirmación previa al envío con resumen de datos.
-- Al confirmar, mensaje dinámico con nombre y email ingresado.
-
-
-## 🖼️  Implementación de Framework y diseño responsivo
-
-Tecnologías utilizadas:
-- ⚛️ React + Vite
-- 💄 Material UI (MUI)
-- 🧭 React Router DOM
-- 🎨 React Icons
-- 🧪 Git y GitHub para control de versiones
-
-El diseño se adapta correctamente a dispositivos móviles y de escritorio.
-
-
-## 🧱 Estructura del proyecto y patrones aplicados
-
-**Framework:** React + Material UI  
-**Patrón de diseño:** Arquitectura basada en componentes  
-
-## 👁️ Preview
-<p align="center">
-  <img src="src/assets/images/xxxxx" alt="Vista previa del rediseño" width="700">
-</p>
+![Vista principal de la app](ss1.png)
+![Vista principal de la app](ss2.png)
+![Vista Mobile](visionMobile.png)
 
 
 
-## <a href='https://xxxxxx'>🌐 Despliegue<a>
 
-## Pasos de instalacion
+## 🛠️ Tecnologías utilizadas
 
-1. Clonar repositorio
+- [React](https://reactjs.org/)
+- [Material UI (MUI)](https://mui.com/)
+- [Framer Motion](https://www.framer.com/motion/)
+- [Date-FNS](https://date-fns.org/)
+- [Mercado Público API](https://api.mercadopublico.cl/)
+
+## 📦 Instalación
+
 ```bash
-git clone https://github.com/EmeRamirez/tejelanas-react.git
-```
-
-2. Instalar dependencias
-```bash
+git clone https://github.com/tu-usuario/buscador-licitaciones.git
+cd buscador-licitaciones
 npm install
-```
-
-3. Correr el proyecto
-```bash
-npm run dev
-```
-# mercado_publico

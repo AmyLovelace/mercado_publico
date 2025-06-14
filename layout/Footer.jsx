@@ -106,7 +106,7 @@ const Footer = () => {
     </Tooltip>
     <Tooltip title="GitHub">
       <IconButton
-        href="https://github.com/EmeRamirez/react-mui-ev2"
+        href="https://github.com/AmyLovelace/mercado_publico"
         target="_blank"
         rel="noopener"
         sx={{ color: "white" }}

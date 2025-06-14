@@ -164,7 +164,7 @@ const BusquedaLicitaciones = forwardRef(({ ticket, onSelect, ...props }, ref) =>
                 value={fecha}
                 onChange={setFecha}
                 minDate={new Date(2000, 0, 1)}
-                maxDate={new Date(2029, 11, 31)}
+                maxDate={new Date()} 
                 renderDay={(day, _value, DayComponentProps) => {
                   const formatted = day.toLocaleDateString('sv-SE');
                   const tieneLicitacion = fechasConLicitaciones.includes(formatted);

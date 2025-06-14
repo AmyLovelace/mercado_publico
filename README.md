@@ -46,6 +46,6 @@ Este proyecto es una aplicación en **React** que permite buscar, visualizar y e
 ## 📦 Instalación
 
 ```bash
-git clone https://github.com/tu-usuario/buscador-licitaciones.git
-cd buscador-licitaciones
+git clone https://github.com/AmyLovelace/mercado_publico.git
+cd mercado_publico
 npm install

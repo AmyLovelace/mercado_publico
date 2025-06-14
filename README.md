@@ -1,6 +1,6 @@
-# 🌐 Sitio web para emprendimiento local
+# 🌐 Sitio web Licitaciones Mercado Público
 
-## 🧪 Evaluación III – Desarrollo Front End  
+## 🧪 Evaluación transversal – Desarrollo Front End  
 **Sección 51**  
 **Profesor:** Víctor Zapata  
 
@@ -19,7 +19,7 @@ Este proyecto es una aplicación en **React** que permite buscar, visualizar y e
   - Fecha de cierre
   - Estado del proceso (publicada, cerrada, adjudicada, revocada)
   - RUT del proveedor
-- 📅 Calendario interactivo que resalta días con licitaciones.
+- 📅 Calendario
 - 📄 Detalles expandibles con información enriquecida de cada licitación.
 - 🧾 Vista adicional del proveedor cuando se busca por RUT.
 - 📚 Sección educativa integrada que explica cómo funciona el Mercado Público y su sistema de licitaciones.

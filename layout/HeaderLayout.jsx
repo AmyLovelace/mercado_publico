@@ -97,7 +97,7 @@ const HeaderLayout = ({ handleDrawerToggle, TOP_NAV_HEIGHT, mobileOpen, isScroll
             >
 
                 <img id='nav-logo' height={40} 
-                    src={!isScrolled ? 'public/assets/logo-chilecompra-original.png' : 'public/assets/logo-chilecompra-original.png'}
+                    src={!isScrolled ? '/assets/logo-chilecompra-original.png' : '/assets/logo-chilecompra-original.png'}
                     
                 />
 
